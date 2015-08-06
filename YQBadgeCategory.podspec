@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YQBadgeCategory"
-  s.version      = "0.0.4"
+  s.version      = "1.0.0"
   s.summary      = "方便处理红点的类别."
 
   s.description  = <<-DESC
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/yuyedaidao/WZLBadge.git", :tag => "0.0.4" }
+  s.source       = { :git => "https://github.com/yuyedaidao/WZLBadge.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
