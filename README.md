@@ -3,6 +3,9 @@ OVERVIEW
 ===================
 这是fork来的一个方便的库，为了更多人方便使用特此传到了Cocoapods
 
+pod 'YQBadgeCategory', '~> 0.0.2' 
+
+==================
 
 WZLBadge is a tool to add or clear badge for **any UIViews**, which is written in Objective-C, **supporting iOS5 ~ iOS8**, supporting portrait and landscape device orientation.
 
