@@ -3,7 +3,7 @@ OVERVIEW
 ===================
 这是fork来的一个方便的库，为了更多人方便使用特此传到了Cocoapods
 
-pod 'YQBadgeCategory', '~> 0.0.2' 
+pod 'YQBadgeCategory'
 
 ==================
 
